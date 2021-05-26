@@ -1,1 +1,1 @@
-# geradordenumerosparaapostas.py
+# simuladordeapostas.py
