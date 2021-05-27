@@ -1,5 +1,6 @@
 # simuladordeapostas.py
-
+-Status
+ Development ⚠️
 
 -Technologies used
 
